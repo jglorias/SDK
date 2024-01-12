@@ -1,0 +1,61 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 120.0,
+                "Committed": 26.0,
+                "Ordered": 0.0
+            },
+            "Items": {
+                "ItemCode": "A00001",
+                "ItemName": "J.B. Multifunktionsdrucker 1420",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null
+            }
+        },
+        {
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 95.0,
+                "Committed": 5.0,
+                "Ordered": 0.0
+            },
+            "Items": {
+                "ItemCode": "A00002",
+                "ItemName": "J.B. Multifunktionsdrucker 1111",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null
+            }
+        },
+        {
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 301.0,
+                "Committed": 141.0,
+                "Ordered": 0.0
+            },
+            "Items": {
+                "ItemCode": "B10000",
+                "ItemName": "Etikettendrucker",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "Y",
+                "BarCode": null
+            }
+        },
+        {
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 7.0,
+                "Committed": 0.0,
+                "Ordered": 0.0
+            },
+            "Items": {
+                "ItemCode": "S10000",
+                "ItemName": "Server Point 10000",
+                "ManageSerialNumbers": "Y",
+                "ManageBatchNumbers": "N",
+                "BarCode": null
+            }
+        }
+    ]
+}

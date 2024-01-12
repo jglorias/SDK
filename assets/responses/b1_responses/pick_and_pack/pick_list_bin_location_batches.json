@@ -1,0 +1,29 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#PickLists/$entity",
+    "Absoluteentry": 12,
+    "Name": "Robert Leitner",
+    "OwnerCode": 1,
+    "OwnerName": null,
+    "PickDate": "2022-08-05",
+    "Remarks": null,
+    "Status": "ps_Released",
+    "ObjectType": "156",
+    "UseBaseUnits": "tNO",
+    "PickListsLines": [
+        {
+            "AbsoluteEntry": 12,
+            "LineNumber": 0,
+            "OrderEntry": 991,
+            "OrderRowID": 0,
+            "PickedQuantity": 0.0,
+            "PickStatus": "ps_Released",
+            "ReleasedQuantity": 1.0,
+            "PreviouslyReleasedQuantity": 1.0,
+            "BaseObjectType": 17,
+            "U_BoxNo": null,
+            "SerialNumbers": [],
+            "BatchNumbers": [],
+            "DocumentLinesBinAllocations": []
+        }
+    ]
+}

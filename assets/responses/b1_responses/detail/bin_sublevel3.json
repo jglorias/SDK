@@ -1,0 +1,17 @@
+{
+    "@odata.context": "$metadata#BinLocations(Sublevel3)",
+    "value": [
+        {
+            "@odata.id": null,
+            "Sublevel3": "P01"
+        },
+        {
+            "@odata.id": null,
+            "Sublevel3": "P02"
+        },
+        {
+            "@odata.id": null,
+            "Sublevel3": "P03"
+        }
+    ]
+}

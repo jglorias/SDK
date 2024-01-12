@@ -1,0 +1,29 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#Items",
+    "value": [
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "ItemCode": "Test",
+            "ItemName": "Test",
+            "BarCode": "ST1",
+            "ManageSerialNumbers": "tNO",
+            "ManageBatchNumbers": "tNO",
+            "ManageSerialNumbersOnReleaseOnly": "tNO",
+            "UoMGroupEntry": 2,
+            "ItemBarCodeCollection": [
+                {
+                    "AbsEntry": 6,
+                    "UoMEntry": 3,
+                    "Barcode": "Kiste1",
+                    "FreeText": ""
+                },
+                {
+                    "AbsEntry": 5,
+                    "UoMEntry": 9,
+                    "Barcode": "ST1",
+                    "FreeText": ""
+                }
+            ]
+        }
+    ]
+}

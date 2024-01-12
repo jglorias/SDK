@@ -1,0 +1,167 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#SAPB1.SQLQueryResult",
+    "SqlText": "select [OBTQ].[Quantity] as [Quantity],[OBTN].[ExpDate] as [Bbd],[OBTN].[DistNumber] as [Batch], -1 as [BinAbsEntry],'' as [BinBarCode],'' as [BinCode] from [OBTQ],[OBTN] where [OBTQ].[MdAbsEntry] = [OBTN].[AbsEntry] and [OBTQ].[ItemCode] = :itemCode and [OBTQ].[WhsCode] = :warehouseCode and [OBTQ].[Quantity] > 0 union select [OBBQ].[OnHandQty] as [Quantity],[OBTN].[ExpDate] as [Bbd],[OBTN].[DistNumber] as [Batch], [OBIN].[AbsEntry] as [BinAbsEntry],[OBIN].[BarCode] as [BinBarCode],[OBIN].[BinCode] as [BinCode] from [OBBQ],[OBTN],[OBIN] where [OBBQ].[SnBMDAbs] = [OBTN].[AbsEntry] and [OBBQ].[BinAbs] = [OBIN].[AbsEntry] and [OBBQ].[ItemCode] = :itemCode and [OBBQ].[WhsCode] = :warehouseCode and [OBBQ].[OnHandQty] > 0 order by [OBTN].[DistNumber]",
+    "value": [
+        {
+            "Batch": "B-10001",
+            "Bbd": null,
+            "BinAbsEntry": 26,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R01-P02",
+            "Quantity": 5.0
+        },
+        {
+            "Batch": "B-10001",
+            "Bbd": null,
+            "BinAbsEntry": 2,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R01-P01",
+            "Quantity": 10096.0
+        },
+        {
+            "Batch": "B-10001",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 10101.0
+        },
+        {
+            "Batch": "B1-00068",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 10001.0
+        },
+        {
+            "Batch": "B1-00068",
+            "Bbd": null,
+            "BinAbsEntry": 26,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R01-P02",
+            "Quantity": 10001.0
+        },
+        {
+            "Batch": "B1-00097",
+            "Bbd": null,
+            "BinAbsEntry": 10,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P01",
+            "Quantity": 10.0
+        },
+        {
+            "Batch": "B1-00097",
+            "Bbd": null,
+            "BinAbsEntry": 34,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P02",
+            "Quantity": 10.0
+        },
+        {
+            "Batch": "B1-00097",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00098",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00098",
+            "Bbd": null,
+            "BinAbsEntry": 10,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P01",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00099",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00099",
+            "Bbd": null,
+            "BinAbsEntry": 10,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P01",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00100",
+            "Bbd": null,
+            "BinAbsEntry": 10,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P01",
+            "Quantity": 10.0
+        },
+        {
+            "Batch": "B1-00100",
+            "Bbd": null,
+            "BinAbsEntry": 34,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P02",
+            "Quantity": 10.0
+        },
+        {
+            "Batch": "B1-00100",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00101",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-00101",
+            "Bbd": null,
+            "BinAbsEntry": 34,
+            "BinBarCode": null,
+            "BinCode": "05-G01-R03-P02",
+            "Quantity": 20.0
+        },
+        {
+            "Batch": "B1-10002",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 100.0
+        },
+        {
+            "Batch": "B1-10002",
+            "Bbd": null,
+            "BinAbsEntry": 3,
+            "BinBarCode": null,
+            "BinCode": "05-G02-R01-P01",
+            "Quantity": 100.0
+        },
+        {
+            "Batch": "c",
+            "Bbd": null,
+            "BinAbsEntry": -1,
+            "BinBarCode": "",
+            "BinCode": "",
+            "Quantity": 100.0
+        }
+    ],
+    "@odata.nextLink": "SQLQueries('ontegoOne_inventory_batchQuantitiesByItemAndWarehouse')/List?itemCode='B10000'&warehouseCode='05'&$skip=20"
+}

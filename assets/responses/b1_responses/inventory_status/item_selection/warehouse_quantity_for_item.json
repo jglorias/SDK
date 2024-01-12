@@ -1,0 +1,31 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            },
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 1437.0,
+                "Committed": 16.0,
+                "Ordered": 10.0
+            }
+        },
+        {
+            "Warehouses": {
+                "WarehouseCode": "05",
+                "WarehouseName": "Lagerplätze",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "Y"
+            },
+            "Items/ItemWarehouseInfoCollection": {
+                "InStock": 301.0,
+                "Committed": 141.0,
+                "Ordered": 0.0
+            }
+        }
+    ]
+}

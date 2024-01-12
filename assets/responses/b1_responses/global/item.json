@@ -1,0 +1,13 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#Items",
+    "value": [
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "ItemCode": "I00008",
+            "ItemName": "Rainbow Fotopapier",
+            "BarCode": null,
+            "ManageSerialNumbers": "tNO",
+            "ManageBatchNumbers": "tYES"
+        }
+    ]
+}

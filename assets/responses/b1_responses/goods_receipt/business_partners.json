@@ -1,0 +1,65 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#PurchaseOrders",
+    "value": [
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "S10000",
+            "CardName": "Servicepartner"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V10000",
+            "CardName": "Computer Import GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V1010",
+            "CardName": "Grosshandel Schmidt"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V20000",
+            "CardName": "Michael Krause GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V21000",
+            "CardName": "Caliper Plastik GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V22000",
+            "CardName": "Müller&Clausen Metall AG"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V23000",
+            "CardName": "Soft- und Hardware GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V30000",
+            "CardName": "Blockies Corporation"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V50000",
+            "CardName": "Electronic Group"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V60000",
+            "CardName": "Hauser Netzwerktechnik GmbH & Co.KG"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V70000",
+            "CardName": "VAN PLC"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "V10000",
+            "CardName": "Computer Import GmbH"
+        }
+    ]
+}

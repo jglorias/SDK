@@ -1,0 +1,324 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 15.0,
+                "LineNum": 0,
+                "RemainingOpenQuantity": 15.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "D00001",
+                "ItemName": "Tragbare Festplatte 1TB",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "Y",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 15.0,
+                "LineNum": 1,
+                "RemainingOpenQuantity": 15.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "D00002",
+                "ItemName": "Tragbare Festplatte 4TB",
+                "ManageSerialNumbers": "Y",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 30.0,
+                "LineNum": 2,
+                "RemainingOpenQuantity": 30.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00001",
+                "ItemName": "Blu-ray-Rohlinge 10er Pack",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 30.0,
+                "LineNum": 3,
+                "RemainingOpenQuantity": 30.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00002",
+                "ItemName": "DL Blu-Ray-Rohlinge 10er Pack",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 25.0,
+                "LineNum": 4,
+                "RemainingOpenQuantity": 25.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00003",
+                "ItemName": "USB Speicherstick 128 GB",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 25.0,
+                "LineNum": 5,
+                "RemainingOpenQuantity": 25.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00004",
+                "ItemName": "USB Speicherstick 256GB",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 15.0,
+                "LineNum": 6,
+                "RemainingOpenQuantity": 15.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00005",
+                "ItemName": "J.B. Laptop Akku X1 series",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 15.0,
+                "LineNum": 7,
+                "RemainingOpenQuantity": 15.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00006",
+                "ItemName": "J.B. Laptop Akku X2 series",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 30.0,
+                "LineNum": 8,
+                "RemainingOpenQuantity": 30.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00009",
+                "ItemName": "SLR Kamera PreciseShot PX1500",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 30.0,
+                "LineNum": 9,
+                "RemainingOpenQuantity": 30.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "I00010",
+                "ItemName": "SLR Kamera M-CAM 40C",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 456,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09"
+            },
+            "PurchaseOrders/DocumentLines": {
+                "Quantity": 25.0,
+                "LineNum": 0,
+                "RemainingOpenQuantity": 25.0,
+                "UoMCode": "Manuell",
+                "UoMEntry": -1
+            },
+            "Items": {
+                "ItemCode": "C00011",
+                "ItemName": "Arbeitsspeicher DDR RAM 8GB",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "N",
+                "BarCode": null,
+                "ManageSerialNumbersOnReleaseOnly": "N"
+            },
+            "Warehouses": {
+                "WarehouseCode": "05",
+                "WarehouseName": "Lagerplätze",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "Y"
+            }
+        }
+    ]
+}

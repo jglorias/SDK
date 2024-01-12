@@ -1,0 +1,370 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#BinLocations",
+    "value": [
+        {
+            "AbsEntry": 1,
+            "BinCode": "05-SYSTEM-BIN-LOCATION",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 2,
+            "BinCode": "05-G01-R01-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 3,
+            "BinCode": "05-G02-R01-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 4,
+            "BinCode": "05-G03-R01-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 5,
+            "BinCode": "05-G04-R01-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 6,
+            "BinCode": "05-G01-R02-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 7,
+            "BinCode": "05-G02-R02-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 8,
+            "BinCode": "05-G03-R02-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 9,
+            "BinCode": "05-G04-R02-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 10,
+            "BinCode": "05-G01-R03-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 11,
+            "BinCode": "05-G02-R03-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 12,
+            "BinCode": "05-G03-R03-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 13,
+            "BinCode": "05-G04-R03-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 14,
+            "BinCode": "05-G01-R04-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 15,
+            "BinCode": "05-G02-R04-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 16,
+            "BinCode": "05-G03-R04-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 17,
+            "BinCode": "05-G04-R04-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 18,
+            "BinCode": "05-G01-R05-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 19,
+            "BinCode": "05-G02-R05-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 20,
+            "BinCode": "05-G03-R05-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 21,
+            "BinCode": "05-G04-R05-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 22,
+            "BinCode": "05-G01-R06-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 23,
+            "BinCode": "05-G02-R06-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 24,
+            "BinCode": "05-G03-R06-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 25,
+            "BinCode": "05-G04-R06-P01",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 26,
+            "BinCode": "05-G01-R01-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 27,
+            "BinCode": "05-G02-R01-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 28,
+            "BinCode": "05-G03-R01-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 29,
+            "BinCode": "05-G04-R01-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 30,
+            "BinCode": "05-G01-R02-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 31,
+            "BinCode": "05-G02-R02-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 32,
+            "BinCode": "05-G03-R02-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 33,
+            "BinCode": "05-G04-R02-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 34,
+            "BinCode": "05-G01-R03-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 35,
+            "BinCode": "05-G02-R03-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 36,
+            "BinCode": "05-G03-R03-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 37,
+            "BinCode": "05-G04-R03-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 38,
+            "BinCode": "05-G01-R04-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 39,
+            "BinCode": "05-G02-R04-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 40,
+            "BinCode": "05-G03-R04-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 41,
+            "BinCode": "05-G04-R04-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 42,
+            "BinCode": "05-G01-R05-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 43,
+            "BinCode": "05-G02-R05-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 44,
+            "BinCode": "05-G03-R05-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 45,
+            "BinCode": "05-G04-R05-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 46,
+            "BinCode": "05-G01-R06-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 47,
+            "BinCode": "05-G02-R06-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 48,
+            "BinCode": "05-G03-R06-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 49,
+            "BinCode": "05-G04-R06-P02",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 50,
+            "BinCode": "05-G01-R01-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 51,
+            "BinCode": "05-G02-R01-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 52,
+            "BinCode": "05-G03-R01-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 53,
+            "BinCode": "05-G04-R01-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 54,
+            "BinCode": "05-G01-R02-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 55,
+            "BinCode": "05-G02-R02-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 56,
+            "BinCode": "05-G03-R02-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 57,
+            "BinCode": "05-G04-R02-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 58,
+            "BinCode": "05-G01-R03-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 59,
+            "BinCode": "05-G02-R03-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 60,
+            "BinCode": "05-G03-R03-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 61,
+            "BinCode": "05-G04-R03-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 62,
+            "BinCode": "05-G01-R04-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 63,
+            "BinCode": "05-G02-R04-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 64,
+            "BinCode": "05-G03-R04-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 65,
+            "BinCode": "05-G04-R04-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 66,
+            "BinCode": "05-G01-R05-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 67,
+            "BinCode": "05-G02-R05-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 68,
+            "BinCode": "05-G03-R05-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 69,
+            "BinCode": "05-G04-R05-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 70,
+            "BinCode": "05-G01-R06-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 71,
+            "BinCode": "05-G02-R06-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 72,
+            "BinCode": "05-G03-R06-P03",
+            "BarCode": null
+        },
+        {
+            "AbsEntry": 73,
+            "BinCode": "05-G04-R06-P03",
+            "BarCode": null
+        }
+    ]
+}

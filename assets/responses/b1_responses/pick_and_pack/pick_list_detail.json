@@ -1,0 +1,33 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "Items": {
+                "ItemCode": "B10000",
+                "ItemName": "Etikettendrucker",
+                "ManageSerialNumbers": "N",
+                "ManageBatchNumbers": "Y",
+                "BarCode": null
+            },
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 12,
+                "LineNumber": 0,
+                "PickedQuantity": 0.0,
+                "ReleasedQuantity": 1.0,
+                "OrderEntry": 991,
+                "OrderRowID": 0,
+                "BaseObjectType": 17
+            },
+            "Warehouses": {
+                "WarehouseCode": "01",
+                "WarehouseName": "Allgemeines Lager",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "N"
+            },
+            "Orders/DocumentLines": {
+                "UoMCode": "Stück",
+                "UoMEntry": 9
+            }
+        }
+    ]
+}

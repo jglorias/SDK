@@ -1,0 +1,23 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "PurchaseOrders": {
+                "DocEntry": 444,
+                "DocNum": 444,
+                "NumAtCard": null,
+                "DocDate": "2016-09-07",
+                "OpenPositions": 1
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 454,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09",
+                "OpenPositions": 11
+            }
+        }
+    ]
+}

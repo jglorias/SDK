@@ -1,0 +1,65 @@
+{
+    "@odata.context": "https://3.122.235.166:55000/b1s/v2/$metadata#PurchaseOrders",
+    "value": [
+        {
+            "CardCode": "S10000",
+            "CardName": "Servicepartner"
+        },
+        {
+            "CardCode": "V10000",
+            "CardName": "Computer Import GmbH"
+        },
+        {
+            "CardCode": "V1010",
+            "CardName": "Grosshandel Schmidt"
+        },
+        {
+            "CardCode": "V20000",
+            "CardName": "Michael Krause GmbH"
+        },
+        {
+            "CardCode": "V21000",
+            "CardName": "Caliper Plastik GmbH"
+        },
+        {
+            "CardCode": "V22000",
+            "CardName": "Müller&Clausen Metall AG"
+        },
+        {
+            "CardCode": "V23000",
+            "CardName": "Soft- und Hardware GmbH"
+        },
+        {
+            "CardCode": "V30000",
+            "CardName": "Blockies Corporation"
+        },
+        {
+            "CardCode": "V50000",
+            "CardName": "Electronic Group"
+        },
+        {
+            "CardCode": "V60000",
+            "CardName": "Hauser Netzwerktechnik GmbH & Co.KG"
+        },
+        {
+            "CardCode": "V70000",
+            "CardName": "VAN PLC"
+        },
+        {
+            "CardCode": "V10000",
+            "CardName": "Computer Import GmbH"
+        },
+        {
+            "CardCode": "S10000",
+            "CardName": "Servicepartner"
+        },
+        {
+            "CardCode": "S10000",
+            "CardName": "Servicepartner"
+        },
+        {
+            "CardCode": "V10000",
+            "CardName": "Computer Import GmbH"
+        }
+    ]
+}

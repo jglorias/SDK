@@ -1,0 +1,75 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#BusinessPartners",
+    "value": [
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C20000",
+            "CardName": "PC Welt GmbH & Co.KG"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C23900",
+            "CardName": "Mikrochips GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C25000",
+            "CardName": "Büro Online AG"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C26000",
+            "CardName": "Büro Ausstattung Namyslo GmbH"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C30000",
+            "CardName": "Computerhandel Müller"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C40000",
+            "CardName": "Büroausstatter Mayer"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C42000",
+            "CardName": "CIT Beratungshaus"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C50000",
+            "CardName": "INTINT, Inc"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C60000",
+            "CardName": "SG Elektronic"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C70000",
+            "CardName": "Broup Inc."
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C99998",
+            "CardName": "Web Einmalkunde"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "C99999",
+            "CardName": "Einmalkunde"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "L10001",
+            "CardName": "Uwe Mann"
+        },
+        {
+            "@odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+            "CardCode": "L10002",
+            "CardName": "Tobias Umang"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#SAPB1.SQLQueryResult",
+    "SqlText": "select [ORDR].[DocEntry], [RDR1].[LineNum],[OBIN].[AbsEntry] as [AbsEntry],[OBIN].[BinCode] as [BinCode], [OBIN].[BarCode] as [BarCode],[RDR1].[WhsCode] as [WarehouseCode] from [ORDR] left outer join [RDR1] on [ORDR].[DocEntry] = [RDR1].[DocEntry] left outer join [OITM] on [OITM].[ItemCode] = [RDR1].[ItemCode] left outer join [OITW] on [OITM].[ItemCode] = [OITW].[ItemCode] and [RDR1].[WhsCode] = [OITW].[WhsCode] left outer join [OBIN] on [OBIN].[AbsEntry] = [OITW].[DftBinAbs] where [ORDR].[DocNum] = :docNum and [RDR1].[OpenQty] > 0 and [RDR1].[LineStatus] = 'O'",
+    "value": [
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 973,
+            "LineNum": 0,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 973,
+            "LineNum": 1,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 973,
+            "LineNum": 2,
+            "WarehouseCode": "01"
+        }
+    ]
+}

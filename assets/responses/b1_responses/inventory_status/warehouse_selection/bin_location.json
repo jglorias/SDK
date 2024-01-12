@@ -1,0 +1,18 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "Warehouses": {
+                "WarehouseCode": "05",
+                "WarehouseName": "Lagerplätze",
+                "BinLocCodeSeparator": "-",
+                "EnableBinLocations": "Y"
+            },
+            "BinLocations": {
+                "AbsEntry": 2,
+                "BinCode": "05-G01-R01-P01",
+                "BarCode": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#Warehouses",
+    "value": [
+        {
+            "WarehouseCode": "01",
+            "WarehouseName": "Allgemeines Lager",
+            "EnableBinLocations": "tNO",
+            "BinLocCodeSeparator": "-"
+        },
+        {
+            "WarehouseCode": "02",
+            "WarehouseName": "Außenlager",
+            "EnableBinLocations": "tNO",
+            "BinLocCodeSeparator": "-"
+        },
+        {
+            "WarehouseCode": "03",
+            "WarehouseName": "Streckengeschäft",
+            "EnableBinLocations": "tNO",
+            "BinLocCodeSeparator": "-"
+        },
+        {
+            "WarehouseCode": "04",
+            "WarehouseName": "Konsignationslager",
+            "EnableBinLocations": "tNO",
+            "BinLocCodeSeparator": "-"
+        }
+    ]
+}

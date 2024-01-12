@@ -1,0 +1,41 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#SAPB1.SQLQueryResult",
+    "SqlText": "select [OIBQ].[OnHandQty] as [BinQuantity],[OBIN].[AbsEntry],[OBIN].[BinCode],[OBIN].[WhsCode],[OBIN].[BarCode] from [OIBQ],[OBIN] where [OIBQ].[BinAbs] = [OBIN].[AbsEntry] and [OIBQ].[ItemCode] = :itemCode and [OIBQ].[WhsCode] = :warehouseCode and [OIBQ].[OnHandQty] > 0 order by [OBIN].[BinCode]",
+    "value": [
+        {
+            "AbsEntry": 2,
+            "BarCode": null,
+            "BinCode": "05-G01-R01-P01",
+            "BinQuantity": 20396.0,
+            "WhsCode": "05"
+        },
+        {
+            "AbsEntry": 26,
+            "BarCode": null,
+            "BinCode": "05-G01-R01-P02",
+            "BinQuantity": 20309.0,
+            "WhsCode": "05"
+        },
+        {
+            "AbsEntry": 10,
+            "BarCode": null,
+            "BinCode": "05-G01-R03-P01",
+            "BinQuantity": 60.0,
+            "WhsCode": "05"
+        },
+        {
+            "AbsEntry": 34,
+            "BarCode": null,
+            "BinCode": "05-G01-R03-P02",
+            "BinQuantity": 40.0,
+            "WhsCode": "05"
+        },
+        {
+            "AbsEntry": 3,
+            "BarCode": null,
+            "BinCode": "05-G02-R01-P01",
+            "BinQuantity": 100.0,
+            "WhsCode": "05"
+        }
+    ]
+}

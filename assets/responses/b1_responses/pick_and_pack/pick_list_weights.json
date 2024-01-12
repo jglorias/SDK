@@ -1,0 +1,93 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 5,
+                "PreviouslyReleasedQuantity": 3.0,
+                "OrderEntry": 970
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 5,
+                "PreviouslyReleasedQuantity": 10.0,
+                "OrderEntry": 970
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 5,
+                "PreviouslyReleasedQuantity": 5.0,
+                "OrderEntry": 970
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 5,
+                "PreviouslyReleasedQuantity": 40.0,
+                "OrderEntry": 970
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 5,
+                "PreviouslyReleasedQuantity": 30.0,
+                "OrderEntry": 970
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 9,
+                "PreviouslyReleasedQuantity": 100.0,
+                "OrderEntry": 986
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 9,
+                "PreviouslyReleasedQuantity": 100.0,
+                "OrderEntry": 987
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        },
+        {
+            "PickLists/PickListsLines": {
+                "AbsoluteEntry": 12,
+                "PreviouslyReleasedQuantity": 1.0,
+                "OrderEntry": 991
+            },
+            "Items": {
+                "InventoryWeight": null,
+                "InventoryWeight1": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "@odata.context": "$metadata#BinLocations(Sublevel4)",
+    "value": [
+        {
+            "@odata.id": null,
+            "Sublevel4": null
+        }
+    ]
+}

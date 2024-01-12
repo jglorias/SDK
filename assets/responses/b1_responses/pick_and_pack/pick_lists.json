@@ -1,0 +1,20 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#PickLists",
+    "value": [
+        {
+            "Absoluteentry": 5,
+            "PickDate": "2022-05-30",
+            "Remarks": null
+        },
+        {
+            "Absoluteentry": 9,
+            "PickDate": "2022-08-01",
+            "Remarks": null
+        },
+        {
+            "Absoluteentry": 12,
+            "PickDate": "2022-08-05",
+            "Remarks": null
+        }
+    ]
+}

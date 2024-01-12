@@ -1,0 +1,27 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "PurchaseOrders": {
+                "DocEntry": 455,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09",
+                "CardCode": "V10000",
+                "CardName": "Computer Import GmbH",
+                "OpenPositions": 10
+            }
+        },
+        {
+            "PurchaseOrders": {
+                "DocEntry": 456,
+                "DocNum": 454,
+                "NumAtCard": null,
+                "DocDate": "2016-09-09",
+                "CardCode": "V10000",
+                "CardName": "Computer Import GmbH",
+                "OpenPositions": 1
+            }
+        }
+    ]
+}

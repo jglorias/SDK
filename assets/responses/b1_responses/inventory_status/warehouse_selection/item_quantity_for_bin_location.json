@@ -1,0 +1,30 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#SAPB1.SQLQueryResult",
+    "SqlText": "select [OITM].[ItemCode],[OITM].[ItemName],[OITM].[ManSerNum] as [ManageSerialNumbers],[OITM].[ManBtchNum] as [ManageBatchNumbers],[OITM].[CodeBars] as [BarCode],[OIBQ].[OnHandQty] as [Quantity] from [OIBQ],[OBIN],[OITM] where [OIBQ].[ItemCode] = [OITM].[ItemCode] and [OIBQ].[BinAbs] = [OBIN].[AbsEntry] and ([OBIN].[BinCode] = :binLocation or [OBIN].[BarCode] = :binLocation)",
+    "value": [
+        {
+            "BarCode": null,
+            "ItemCode": "A00001",
+            "ItemName": "J.B. Multifunktionsdrucker 1420",
+            "ManageBatchNumbers": "N",
+            "ManageSerialNumbers": "N",
+            "Quantity": 100.0
+        },
+        {
+            "BarCode": null,
+            "ItemCode": "B10000",
+            "ItemName": "Etikettendrucker",
+            "ManageBatchNumbers": "Y",
+            "ManageSerialNumbers": "N",
+            "Quantity": 95.0
+        },
+        {
+            "BarCode": null,
+            "ItemCode": "S10000",
+            "ItemName": "Server Point 10000",
+            "ManageBatchNumbers": "N",
+            "ManageSerialNumbers": "Y",
+            "Quantity": 7.0
+        }
+    ]
+}

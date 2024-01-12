@@ -1,0 +1,448 @@
+{
+    "occStyleParameters": [],
+    "occSystemParameters": [
+      {
+        "name": "newestScenarioVersion",
+        "value": "1.2.34"
+      },
+      {
+        "name": "system.url",
+        "value": "https://configuration.ontego.one/demosystem/Logistic"
+      },
+      {
+        "name": "system.auth_db_name",
+        "value": "SBODEMOCH"
+      },
+      {
+        "name": "system.system_id",
+        "value": "0010000100"
+      },
+      {
+        "name": "system.auth_method",
+        "value": "noauth"
+      },
+      {
+        "name": "system.basic",
+        "value": "bnVsbDpudWxs"
+      },
+      {
+        "name": "login.useB1UserForLogin",
+        "value": "false"
+      },
+      {
+        "name": "login.needPhoneNumber",
+        "value": "false"
+      },
+      {
+        "name": "login.employePosition",
+        "value": "('Monteur')"
+      },
+      {
+        "name": "system.rolesettings",
+        "value": "[{\"role\":\"Monteur\",\"roleSettings\":[{\"name\":\"dashboard.goods_receipt.enable\",\"value\":true},{\"name\":\"dashboard.pick_and_pack.enable\",\"value\":true},{\"name\":\"dashboard.inventory_status.enable\",\"value\":true},{\"name\":\"dashboard.inventory_transfer.enable\",\"value\":true},{\"name\":\"dashboard.inventory_counting.enable\",\"value\":true},{\"name\":\"dashboard.delivery.enable\",\"value\":true}]}]"
+      },
+      {
+        "name": "inventory_transfer.material_number_input.manually",
+        "value": "false"
+      },
+      {
+        "name": "inventory_transfer.material_number_input.barcode",
+        "value": "false"
+      },
+      {
+        "name": "inventory_transfer.material_number_input.search",
+        "value": "false"
+      },
+      {
+        "name": "inventory_transfer.transfer_list.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "inventory_transfer.source.allowAdditionalBinLocs",
+        "value": "false"
+      },
+      {
+        "name": "inventory_transfer.source.checkWarehouseOrBinLoc",
+        "value": "off"
+      },
+      {
+        "name": "inventory_transfer.source.checkBatch",
+        "value": "off"
+      },
+      {
+        "name": "inventory_transfer.source.checkSerial",
+        "value": "off"
+      },
+      {
+        "name": "inventory_transfer.allowOneBatchForOneBinLoc",
+        "value": "false"
+      },
+      {
+        "name": "inventory_transfer.warehouseInput.manually",
+        "value": "true"
+      },
+      {
+        "name": "inventory_transfer.warehouseInput.barcode",
+        "value": "true"
+      },
+      {
+        "name": "dashboard.inventory_transfer.enable",
+        "value": "true"
+      },
+      {
+        "name": "inventory_counting.new_inventory_input.manually",
+        "value": "true"
+      },
+      {
+        "name": "inventory_counting.new_inventory_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "inventory_counting.new_inventory_input.search",
+        "value": "false"
+      },
+      {
+        "name": "inventory_counting.inventory_list.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "inventory_counting.showExpectedQuantity",
+        "value": "false"
+      },
+      {
+        "name": "inventory_counting.inventoryList.allowAddInventory",
+        "value": "false"
+      },
+      {
+        "name": "inventory_counting.configure_batch_serial",
+        "value": "no"
+      },
+      {
+        "name": "inventory_counting.allowOneBatchForOneBinLoc",
+        "value": "false"
+      },
+      {
+        "name": "inventory_counting.bestBeforeInputType",
+        "value": "inputField"
+      },
+      {
+        "name": "inventory_counting.bestBeforeDate",
+        "value": "OFF"
+      },
+      {
+        "name": "inventory_counting.warehouse_input.manually",
+        "value": "true"
+      },
+      {
+        "name": "inventory_counting.warehouse_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "dashboard.inventory_counting.enable",
+        "value": "true"
+      },
+      {
+        "name": "delivery.entrance.type",
+        "value": "supplier_and_docnumber"
+      },
+      {
+        "name": "delivery.bp.selection",
+        "value": "all"
+      },
+      {
+        "name": "delivery.order_selection.all",
+        "value": "false"
+      },
+      {
+        "name": "delivery.order_selection.multiple",
+        "value": "false"
+      },
+      {
+        "name": "delivery.order_selection.without_order_reference",
+        "value": "false"
+      },
+      {
+        "name": "delivery.order_number_input.manually",
+        "value": "true"
+      },
+      {
+        "name": "delivery.order_number_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "delivery.order_positions.template",
+        "value": "0"
+      },
+      {
+        "name": "delivery.new_order_position",
+        "value": "false"
+      },
+      {
+        "name": "delivery.article_number_input.manually",
+        "value": "false"
+      },
+      {
+        "name": "delivery.article_number_input.barcode",
+        "value": "false"
+      },
+      {
+        "name": "delivery.article_number_input.search",
+        "value": "false"
+      },
+      {
+        "name": "delivery.quick_check",
+        "value": "true"
+      },
+      {
+        "name": "delivery.position_quantity.lower_question",
+        "value": "false"
+      },
+      {
+        "name": "delivery.position_quantity.lower_noquestion",
+        "value": "false"
+      },
+      {
+        "name": "delivery.position_quantity.higher_question",
+        "value": "false"
+      },
+      {
+        "name": "delivery.position_quantity.higher_noquestion",
+        "value": "false"
+      },
+      {
+        "name": "delivery.order_positions.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "delivery.completeOrderMode",
+        "value": "atLeastOnce"
+      },
+      {
+        "name": "delivery.showOrderPosCount",
+        "value": "true"
+      },
+      {
+        "name": "dashboard.delivery.enable",
+        "value": "true"
+      },
+      {
+        "name": "inventory_status.entrance.type",
+        "value": "itemOrWarehouseSelection"
+      },
+      {
+        "name": "inventory_status.article_number_input.manually",
+        "value": "false"
+      },
+      {
+        "name": "inventory_status.article_number_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "inventory_status.article_number_input.search",
+        "value": "false"
+      },
+      {
+        "name": "inventory_status.warehouseList.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "inventory_status.warehouse_input.manually",
+        "value": "false"
+      },
+      {
+        "name": "inventory_status.warehouse_number_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "inventory_status.warehouse_number_input.search",
+        "value": "false"
+      },
+      {
+        "name": "dashboard.inventory_status.enable",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.entrance.type",
+        "value": "supplier_and_docnumber"
+      },
+      {
+        "name": "goods_receipt.bp.selection",
+        "value": "all"
+      },
+      {
+        "name": "goods_receipt.order_selection.all",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.order_selection.multiple",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.order_selection.without_order_reference",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.order_number_input.manually",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.order_number_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.order_positions.template",
+        "value": "1"
+      },
+      {
+        "name": "goods_receipt.new_order_position",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.article_number_input.manually",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.article_number_input.barcode",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.article_number_input.search",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.quick_check",
+        "value": "true"
+      },
+      {
+        "name": "goods_receipt.position_quantity.lower_question",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.position_quantity.lower_noquestion",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.position_quantity.higher_question",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.position_quantity.higher_noquestion",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.order_positions.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "goods_receipt.completeOrderMode",
+        "value": "atLeastOnce"
+      },
+      {
+        "name": "goods_receipt.showOrderPosCount",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.allowGS1_128",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.gs1_128.fillWithLeadingZeros",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.bestBeforeDate",
+        "value": "OFF"
+      },
+      {
+        "name": "goods_receipt.bestBeforeInputType",
+        "value": "inputField"
+      },
+      {
+        "name": "goods_receipt.allow_bp_reference",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.allowOneBatchForOneBinLoc",
+        "value": "false"
+      },
+      {
+        "name": "goods_receipt.draftDocumentsForNewLine",
+        "value": "false"
+      },
+      {
+        "name": "dashboard.goods_receipt.enable",
+        "value": "true"
+      },
+      {
+        "name": "pick_and_pack.pickItemList.showWarehouseModus",
+        "value": "warehouseName"
+      },
+      {
+        "name": "pick_and_pack.pickItemList.quickCheck",
+        "value": "true"
+      },
+      {
+        "name": "pick_and_pack.position_quantity.lowerQuantity",
+        "value": "false"
+      },
+      {
+        "name": "pick_and_pack.useContainers",
+        "value": "false"
+      },
+      {
+        "name": "pick_and_pack.udf.container",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.udf.palletHeight",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.udf.palletLength",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.udf.palletWidth",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.useWeightLights",
+        "value": "false"
+      },
+      {
+        "name": "pick_and_pack.exceeded_weight_value",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.container_multiscan",
+        "value": "false"
+      },
+      {
+        "name": "pick_and_pack.container_multiscan",
+        "value": "false"
+      },
+      {
+        "name": "pick_and_pack.weightUnit",
+        "value": "KG"
+      },
+      {
+        "name": "pick_and_pack.filterItems",
+        "value": ""
+      },
+      {
+        "name": "pick_and_pack.completeOrderMode",
+        "value": "atLeastOnce"
+      },
+      {
+        "name": "pick_and_pack.allowedHeavyContainers",
+        "value": ""
+      },
+      {
+        "name": "dashboard.pick_and_pack.enable",
+        "value": "true"
+      }
+    ],
+    "logHistorySaved": true,
+    "systemPIN": "8320",
+    "systemDeploymentEnv": 1
+  }

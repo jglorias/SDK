@@ -1,0 +1,101 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#UnitOfMeasurementGroups",
+    "value": [
+        {
+            "AbsEntry": -1,
+            "Code": "Manuell",
+            "Name": "Manuell",
+            "BaseUoM": -1,
+            "UoMGroupDefinitionCollection": [
+                {
+                    "AlternateUoM": -1,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 1.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                }
+            ]
+        },
+        {
+            "AbsEntry": 1,
+            "Code": "Papier",
+            "Name": "Papier",
+            "BaseUoM": 1,
+            "UoMGroupDefinitionCollection": [
+                {
+                    "AlternateUoM": 1,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 1.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 5,
+                    "AlternateQuantity": 2.0,
+                    "BaseQuantity": 1.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 2,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 6.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 3,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 24.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 4,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 48.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                }
+            ]
+        },
+        {
+            "AbsEntry": 2,
+            "Code": "Medien",
+            "Name": "Medien",
+            "BaseUoM": 9,
+            "UoMGroupDefinitionCollection": [
+                {
+                    "AlternateUoM": 9,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 1.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 6,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 100.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                },
+                {
+                    "AlternateUoM": 3,
+                    "AlternateQuantity": 1.0,
+                    "BaseQuantity": 10000.0,
+                    "WeightFactor": 0,
+                    "UdfFactor": -1,
+                    "Active": "tYES"
+                }
+            ]
+        }
+    ]
+}

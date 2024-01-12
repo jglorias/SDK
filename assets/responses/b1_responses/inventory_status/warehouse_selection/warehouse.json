@@ -1,0 +1,11 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#Warehouses",
+    "value": [
+        {
+            "WarehouseCode": "05",
+            "WarehouseName": "Lagerplätze",
+            "EnableBinLocations": "tYES",
+            "BinLocCodeSeparator": "-"
+        }
+    ]
+}

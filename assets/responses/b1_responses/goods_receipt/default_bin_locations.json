@@ -1,0 +1,94 @@
+{
+    "@odata.context": "https://94.130.48.155:50000/b1s/v2/$metadata#SAPB1.SQLQueryResult",
+    "SqlText": "select [OPOR].[DocEntry], [POR1].[LineNum],[OBIN].[AbsEntry] as [AbsEntry],[OBIN].[BinCode] as [BinCode], [OBIN].[BarCode] as [BarCode],[POR1].[WhsCode] as [WarehouseCode] from [OPOR] left outer join [POR1] on [OPOR].[DocEntry] = [POR1].[DocEntry] left outer join [OITM] on [OITM].[ItemCode] = [POR1].[ItemCode] left outer join [OITW] on [OITM].[ItemCode] = [OITW].[ItemCode] and [POR1].[WhsCode] = [OITW].[WhsCode] left outer join [OBIN] on [OBIN].[AbsEntry] = [OITW].[DftBinAbs] where [OPOR].[DocNum] = :docNum and [POR1].[OpenQty] > 0 and [POR1].[LineStatus] = 'O'",
+    "value": [
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 0,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 1,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 2,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 3,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 4,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 5,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 6,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 7,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 8,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 455,
+            "LineNum": 9,
+            "WarehouseCode": "01"
+        },
+        {
+            "AbsEntry": null,
+            "BarCode": null,
+            "BinCode": null,
+            "DocEntry": 456,
+            "LineNum": 0,
+            "WarehouseCode": "05"
+        }
+    ]
+}

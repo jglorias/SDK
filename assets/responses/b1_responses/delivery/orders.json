@@ -1,0 +1,68 @@
+{
+    "@odata.context": "$metadata#Collection(Edm.ComplexType)",
+    "value": [
+        {
+            "Orders": {
+                "DocEntry": 939,
+                "DocNum": 939,
+                "NumAtCard": null,
+                "DocDate": "2016-08-10",
+                "OpenPositions": 1
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 942,
+                "DocNum": 942,
+                "NumAtCard": null,
+                "DocDate": "2016-02-06",
+                "OpenPositions": 4
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 967,
+                "DocNum": 967,
+                "NumAtCard": null,
+                "DocDate": "2022-05-25",
+                "OpenPositions": 1
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 968,
+                "DocNum": 968,
+                "NumAtCard": null,
+                "DocDate": "2022-05-25",
+                "OpenPositions": 1
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 969,
+                "DocNum": 969,
+                "NumAtCard": null,
+                "DocDate": "2022-05-30",
+                "OpenPositions": 5
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 970,
+                "DocNum": 970,
+                "NumAtCard": "",
+                "DocDate": "2022-05-30",
+                "OpenPositions": 5
+            }
+        },
+        {
+            "Orders": {
+                "DocEntry": 972,
+                "DocNum": 972,
+                "NumAtCard": null,
+                "DocDate": "2022-06-10",
+                "OpenPositions": 3
+            }
+        }
+    ]
+}
